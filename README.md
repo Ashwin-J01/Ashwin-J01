@@ -10,8 +10,7 @@
 
 ### 📚 Currently Learning
 - 💻 **MERN Stack Development**
-- ⚙️ **DevOps Fundamentals** (CI/CD, Docker, AWS basics)
-
+  
 ---
 
 ### 💬 Ask Me About
