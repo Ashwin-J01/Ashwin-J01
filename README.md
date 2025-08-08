@@ -6,7 +6,7 @@
 ---
 
 ### 🔧 Currently Working On
-- 🎬 **Netflix-Clone** — a full-stack streaming platform clone using React & Firebase.
+- 🎬 **Netflix-Clone** — a full-stack streaming platform clone using React.
 
 ### 📚 Currently Learning
 - 💻 **MERN Stack Development**
