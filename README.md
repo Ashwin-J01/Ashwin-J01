@@ -16,7 +16,6 @@
 ### 💬 Ask Me About
 - Web Development (HTML, CSS, JavaScript, React)
 - Node.js & MongoDB
-- Project Ideas & Full Stack Architecture
 
 ---
 
