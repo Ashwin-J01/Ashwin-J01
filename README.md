@@ -26,8 +26,7 @@
 ---
 
 ### ⚡ Fun Facts
-- 🎮 I enjoy **gaming** and **digital art**
-- 💡 Love **brainstorming tech startup ideas**
+- 🎮 I enjoy **gaming** and **drawing**
 - 🧠 Always curious about the latest in tech and AI!
 
 ---
