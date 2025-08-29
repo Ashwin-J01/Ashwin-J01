@@ -6,14 +6,16 @@
 <br/>
 
 <div align="center">
-🎓 I'm currently pursuing **B.Tech IT**  
-🚀 I love building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code.  
-🔧 **Currently Working On:** Netflix-Clone — a full-stack streaming platform using React  
-📚 **Currently Learning:** MERN Stack Development  
-💬 **Ask Me About:** Web Development (HTML, CSS, JavaScript, React), Node.js & MongoDB  
-⚡ **Fun Facts:** 🎮 I enjoy gaming & drawing | 🧠 Always curious about the latest in tech & AI!
+
+🎓 Pursuing **B.Tech in Information Technology**  
+🚀 Passionate about building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code  
+🔧 **Currently Working On:** *Netflix Clone* — a full-stack streaming platform using **React**  
+📚 **Currently Learning:** *MERN Stack Development*  
+💬 **Ask Me About:** *Web Development (HTML, CSS, JavaScript, React), Node.js & MongoDB*  
+⚡ **Fun Facts:** 🎮 I enjoy gaming & drawing | 🧠 Always curious about the latest in tech & AI  
+
 </div>
-<br/>
+
 <div align="center">
   <a href="mailto:ashwinj0104@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,8 +31,8 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,mysql,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,github,vscode,java,python,golang" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,github,vscode,java,python,golang" /><br>
 </div>
 <br/>
 <hr/>
