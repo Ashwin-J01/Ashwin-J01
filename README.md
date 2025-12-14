@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Web Developer & Tech Enthusiast</h3>
 <br/>
 
-<div align="center">
+<div>
 
 🎓 Pursuing **B.Tech in Information Technology**  
 🚀 Passionate about building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code  
