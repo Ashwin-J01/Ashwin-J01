@@ -8,8 +8,7 @@
 <div>
 
 🎓 Pursuing **B.Tech in Information Technology**  
-🚀 Passionate about building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code  
-🔧 **Currently Working On:** *Netflix Clone* — a full-stack streaming platform using **React**  
+🚀 Passionate about building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code    
 📚 **Currently Learning:** *MERN Stack Development*  
 💬 **Ask Me About:** *Web Development (HTML, CSS, JavaScript, React), Node.js & MongoDB*  
 ⚡ **Fun Facts:** 🎮 I enjoy gaming & drawing | 🧠 Always curious about the latest in tech & AI  
