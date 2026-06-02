@@ -7,12 +7,27 @@
 
 <div>
 
-🎓 Pursuing **B.Tech in Information Technology**  
-🚀 Passionate about building **full-stack web applications**, exploring **cloud technologies**, and solving **real-world problems** through code    
-📚 **Currently Learning:** *MERN Stack Development*  
-💬 **Ask Me About:** *Web Development (HTML, CSS, JavaScript, React), Node.js & MongoDB*  
-⚡ **Fun Facts:** 🎮 I enjoy gaming & drawing | 🧠 Always curious about the latest in tech & AI  
+🎓 Pursuing B.Tech in Information Technology
 
+🚀 Passionate about designing and developing modern web applications, creating intuitive user experiences, and solving real-world challenges through technology.
+
+🌱 Currently expanding my expertise in MERN Stack Development, Cloud Computing, and Artificial Intelligence.
+
+💡 Strong interest in Software Development, Web Technologies, Open Source, and Emerging Tech Trends.
+
+💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Java, and Python.
+
+🔍 Constantly exploring new tools, frameworks, and best practices to build scalable and efficient applications.
+
+<h3>Fun Facts</h3>
+
+🎮 Gaming Enthusiast
+
+🎨 Enjoy Drawing and Creative Design
+
+🤖 Fascinated by AI and Innovative Technologies
+
+☕ Turning Coffee into Code, One Project at a Time
 </div>
 
 
@@ -20,7 +35,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" /><br>
   <img src="https://skillicons.dev/icons?i=mongodb,github,vscode,java,python" /><br>
 </div>
 <br/>
