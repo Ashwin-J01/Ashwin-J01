@@ -25,13 +25,4 @@
   <img src="https://skillicons.dev/icons?i=mongodb,github,vscode,java,python,golang" /><br>
 </div>
 <br/>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
 
-<div align="center">
-  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-J01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&t=1" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
